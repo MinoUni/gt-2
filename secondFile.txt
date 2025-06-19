@@ -5,6 +5,8 @@ line #4
 line #5
 L I N E # 6 [ changed ]
 L I N E # 7 [ changed ]
+Line #6 [ UPDATE]
+Line #7 [ UPDATE]
 line #8
 line #9
 line #10
