@@ -3,8 +3,8 @@ line #2
 line #3
 line #4
 line #5
-line #6
-line #7
+Line #6 [ UPDATE]
+Line #7 [ UPDATE]
 line #8
 line #9
 line #10
